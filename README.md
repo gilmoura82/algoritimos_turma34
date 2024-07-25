@@ -1,1 +1,1 @@
-# algoritimos_turma34
+# Repositório criado para armazenar os exercícios durante a jornada
