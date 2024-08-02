@@ -1,0 +1,17 @@
+1 - Verdadeiro
+Se temos uma nota 10, penso que o recomendado seja que não passe desse valor, mesmo que o usuário informe valor superior
+
+2 - Falso
+Uma variável falsa e outra verdadeira, porém a condição só será atendida caso ambas estejam em conformidade
+
+3 - Falso
+Sentenças diferentes dos valores atribuídos nas variáveis
+
+4 - Falso
+Sentença diferente do valore atribuído na variável, mesmo que apenas uma das condições sejam atendidas.
+
+5 - Verdadeiro
+Sentença embora False está como negação, ou seja, se não é falso, então é verdadeiro
+
+6 - Verdadeiro
+Sentenças diferentes dos valores atribuídos nas variáveis, mesmo que apenas uma das condições sejam atendidas.
